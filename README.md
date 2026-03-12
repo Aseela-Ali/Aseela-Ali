@@ -31,12 +31,14 @@ Delivered two guest lectures for MSc students:
 
 - **Frontend Development**  
   Introduction to HTML, CSS, and React for building modern web interfaces.
+  ## Technologies
 
-## Technologies
-- AWS
-- Docker
-- Kubernetes
-- Python
-- PHP / WordPress
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,python,php,wordpress,linux,js,react,git" />
+</p>
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aseela-Ali&show_icons=true&theme=default)
 - Linux
 - JavaScript / React
