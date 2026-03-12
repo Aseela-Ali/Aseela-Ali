@@ -39,9 +39,11 @@ Delivered two guest lectures for MSc students:
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aseela-Ali&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aseela-Ali&show_icons=true&theme=default" />
+</p>
 
 ## Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aseela-Ali)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aseela-Ali&theme=github)
 
