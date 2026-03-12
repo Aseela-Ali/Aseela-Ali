@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Aseela Ali 👋
 
-<!--
-**Aseela-Ali/Aseela-Ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD Researcher in Cloud Computing at Keele University  
+Full-Stack Web Developer at Hardedge Ltd
 
-Here are some ideas to get you started:
+## Research Interests
+- Cloud-native systems
+- AI for log analysis
+- Scalability and resilience
+- Observability and instrumentation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Teaching
+I support MSc students at Keele University as a demonstrator in:
+
+- Cloud Computing Lab
+- Agile Web Engineering Lab
+
+During these sessions I help students with practical tasks including:
+- AWS cloud deployment models
+- Linux system administration
+- Hadoop distributed processing
+- SQL and data management
+- Agile and Scrum practices
+
+## Technologies
+- AWS
+- Docker
+- Kubernetes
+- Python
+- PHP / WordPress
+- Linux
