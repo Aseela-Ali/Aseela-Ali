@@ -9,18 +9,28 @@ Full-Stack Web Developer at Hardedge Ltd
 - Scalability and resilience
 - Observability and instrumentation
 
-## Teaching
-I support MSc students at Keele University as a demonstrator in:
+## Teaching & Guest Lectures
+I support MSc students at Keele University as a lab demonstrator and guest lecturer.
 
-- Cloud Computing Lab
-- Agile Web Engineering Lab
+### Lab Demonstrating
+- Cloud Computing Lab (MSc)
+- Agile Web Engineering Lab (MSc)
 
-During these sessions I help students with practical tasks including:
+Supporting students with practical work including:
 - AWS cloud deployment models
 - Linux system administration
 - Hadoop distributed processing
 - SQL and data management
 - Agile and Scrum practices
+
+### Guest Lectures
+Delivered two guest lectures for MSc students:
+
+- **Agile Software Development**  
+  Covering Agile principles, Scrum framework, and roles in modern software teams.
+
+- **Frontend Development**  
+  Introduction to HTML, CSS, and React for building modern web interfaces.
 
 ## Technologies
 - AWS
@@ -29,3 +39,4 @@ During these sessions I help students with practical tasks including:
 - Python
 - PHP / WordPress
 - Linux
+- JavaScript / React
